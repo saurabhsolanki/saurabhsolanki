@@ -1,6 +1,7 @@
-
-<img  src="https://miro.medium.com/max/875/0*UqGyYmWCRQnjLzSk.jpg" width="100%"/>
 <h1 align="center">Hi 👋, I'm Saurabh Solanki</h1>
+<img height="400px" width="100%" src="https://miro.medium.com/max/875/0*FGD6BUzzZs1VJLuY.gif" />
+
+
 <h3 align="center">A passionate frontend developer In the middle of becoming Full-Stack (MERN) Developer. Thank You for taking the time to view my GitHub Profile 😄 from India</h3>
 
 <br/>
