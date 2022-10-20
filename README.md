@@ -42,12 +42,7 @@
 </p>                                                                                                                                              
 
   <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/saurabhsolanki/github-readme-stats"><img alt="saurabhsolanki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhsolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-
-
+   
 <br/>
 <br/>
 
